@@ -1,0 +1,215 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Spr",
+				"SprintfError"
+			],
+			[
+				"timez",
+				"timezoneClip"
+			],
+			[
+				"cancel",
+				"cancelAnimationFrame"
+			],
+			[
+				"request",
+				"requestAnimationFrame"
+			],
+			[
+				"Request",
+				"RequestAnimationFrame"
+			],
+			[
+				"cane",
+				"cancelAnimationFrame"
+			],
+			[
+				"right",
+				"right-top-pane"
+			],
+			[
+				"text-",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/sublime-grunt-build/grunt.sublime-build",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"init",
+				"Git: Init"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/James/public_html/k.js/src/fx.js",
+		"/C/Users/James/public_html/k.js/src/utils.js",
+		"/C/Users/James/public_html/k.js/src/types.js",
+		"/C/Users/James/public_html/k.js/src/oath.js",
+		"/C/Users/James/public_html/k.js/src/str.js",
+		"/C/Users/James/public_html/k.js/src/datetime.js",
+		"/C/Users/James/public_html/k.js/src/eventemitter2.js",
+		"/C/Users/James/public_html/paks-admin/grunt.js",
+		"/C/Users/James/public_html/k.js/grunt.js",
+		"/C/Users/James/AppData/Roaming/Sublime Text 2/Packages/User/js-comment-line.sublime-snippet",
+		"/C/Users/James/public_html/website/index.html",
+		"/C/Users/James/public_html/website/styles.css",
+		"/C/Users/James/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/James/Dropbox/Umbra/Joshua's Website Crap/layout.html",
+		"/C/Users/James/public_html/programs-admin/javascripts/views/programs/overview.js",
+		"/C/Users/James/public_html/programs-admin/javascripts/views/programs/program.js",
+		"/C/Users/James/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/James/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/James/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/James/public_html/programs-admin/templates/programs/overview.hbs",
+		"/C/Users/James/public_html/programs-admin/templates/programs/program.hbs",
+		"/C/Users/James/public_html/programs-admin/readme.md",
+		"/C/Users/James/public_html/programs-admin/templates/tag-editor.hbs",
+		"/C/Users/James/public_html/programs-admin/templates/icon-button.hbs",
+		"/C/Users/James/public_html/programs-admin/index.html",
+		"/C/Users/James/public_html/programs-admin/package.json",
+		"/C/Users/James/server.js",
+		"/C/Users/James/_server/start.js",
+		"/C/Users/James/public_html/_server/start.js",
+		"/C/Users/James/.ssh/github_rsa.pub"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"get_type",
+			"left",
+			"pkg",
+			"obj",
+			"ret."
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Right",
+			"exports",
+			"value",
+			"exports."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 187.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true
+}
